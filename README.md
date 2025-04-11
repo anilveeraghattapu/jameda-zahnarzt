@@ -15,7 +15,7 @@ Error-Resistant: Skips corrupt entries and logs errors.
 
 ### Run the Scraper
 ```bash
-python -m src.main 
+python -m main 
 
 ```
 
